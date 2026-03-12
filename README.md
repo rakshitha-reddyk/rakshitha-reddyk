@@ -17,10 +17,10 @@ CSE Undergraduate | Curious Learner | Tech Enthusiast
 ## 🌟 About Me
 
 - 🎓 Pursuing B.Tech in Computer Science Engineering
-- 💻 Love building cool projects and learning new technologies
-- ⚛️ Currently focused on Frontend Development
+- 💻 Frontend Developer Intern  
+- 🚀 Passionate about building modern web applications  
 - 🤖 Interested in AI, web apps, and software development
-- ⚡ Always learning new things
+- ⚡ Always learning new technologies and improving skills
   
 
 ---
@@ -38,19 +38,10 @@ CSE Undergraduate | Curious Learner | Tech Enthusiast
 
 ## 🚀 Currently
 
-- Working as a Frontend Intern
-- Improving programming skills  
-- Building UI projects  
-- Exploring new technologies
-
----
-
-## 📂 Featured Projects
-
-- 📊 Analytics Dashboard App  
-- 🤖 CodeMentor AI  
-- 🏫 Smart Campus AI Platform  
-- 📈 Sales Dashboard UI  
+- Working on real-world frontend projects  
+- Learning React and modern JavaScript
+- Building UI dashboards and web apps
+- Exploring AI tools and productivity tech
 
 ---
 
