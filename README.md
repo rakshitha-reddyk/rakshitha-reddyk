@@ -16,11 +16,11 @@ CSE Undergraduate | Curious Learner | Tech Enthusiast
 
 ## 🌟 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- 💻 Frontend Developer Intern  
-- 🚀 Passionate about building modern web applications  
-- 🤖 Interested in AI, web apps, and software development
-- ⚡ Always learning new technologies and improving skills
+- Pursuing B.Tech in Computer Science Engineering
+- Frontend Developer Intern  
+- Passionate about building modern web applications  
+- Interested in AI, web apps, and software development
+- Always learning new technologies and improving skills
   
 
 ---
